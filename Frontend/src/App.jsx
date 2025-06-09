@@ -19,9 +19,10 @@ function App() {
 
   return (
     <div className='px-26 bg-sky-200 flex flex-col justify-center align-center items-center'>
-      <div className='flex flex-col max-w-7xl min-w-lg bg-white h-full py-10 px-6'>
-        <h1>Pathway to Software Engineer</h1>
-        <p>Essential Resources for Job Hunting, Software Engineering Skills, and Beyond!</p>
+      <div className='flex flex-col max-w-7xl min-w-lg bg-white h-full py-10 px-6 text-center'>
+        <h1 className='text-4xl font-bold text-sky-700'>Pathway to Software Engineer</h1>
+        <p className='text-gray-700'>Essential Resources for Job Hunting, Software Engineering Skills, and Beyond!</p>
+        <br />
         <div className='grid grid-cols-4'>
             <Card name="Introduction to Programming" image={one} tag="Course" link="https://www.facebook.com/"/>
             <Card name="Technical Interview Prep" image={two} tag="Course" link="https://www.facebook.com/"/>
@@ -32,7 +33,7 @@ function App() {
             <Card name="Data Structure and Algorithm" image={seven} tag="Course" link="https://www.facebook.com/"/>
             <Card name="System Design 101" image={eight} tag="Course" link="https://www.facebook.com/"/>
             <Card name="Basics of UI/UX Designs" image={nine} tag="Course" link="https://www.facebook.com/"/>
-            <Card name="Pathway to Fintech" image={ten} tag="Beginner" link="https://www.facebook.com/"/>
+            <Card name="Pathway to Fintech" image={ten} tag="Documents" link="https://www.facebook.com/"/>
             
         </div>
       </div>
