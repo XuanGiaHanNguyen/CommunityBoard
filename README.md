@@ -41,7 +41,7 @@ I still have no idea how to turn this into Mobile App...
 
 ## License
 
-    Copyright [2025] [Xuan Gia Han Nguyen]
+    Copyright 2025 Xuan Gia Han Nguyen
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
