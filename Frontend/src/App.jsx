@@ -2,7 +2,7 @@
 
 import Card from './assets/Card'
 
-import one from "./image/1.png"
+import one from "./image/1.jpg"
 import two from "./image/2.jpg"
 import three from "./image/3.jpg"
 import four from "./image/4.jpg"
@@ -30,9 +30,9 @@ function App() {
             <Card name="Introduction to AI" image={five} tag="Course" link="https://www.facebook.com/"/>
             <Card name="Cloud Management" image={six} tag="Document" link="https://www.facebook.com/"/>
             <Card name="Data Structure and Algorithm" image={seven} tag="Course" link="https://www.facebook.com/"/>
-            <Card name="" image={eight} tag="Course" link="https://www.facebook.com/"/>
-            <Card name="Introduction to Programming" image={one} tag="Course" link="https://www.facebook.com/"/>
-            <Card name="Technical Interview - the Tips and Tricks" image={two} tag="Beginner" link="https://www.facebook.com/"/>
+            <Card name="System Design 101" image={eight} tag="Course" link="https://www.facebook.com/"/>
+            <Card name="Basics of UI/UX Designs" image={nine} tag="Course" link="https://www.facebook.com/"/>
+            <Card name="Pathway to Fintech" image={ten} tag="Beginner" link="https://www.facebook.com/"/>
             
         </div>
       </div>
