@@ -29,9 +29,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href="https://drive.google.com/file/d/1I7IhidcFgKd3CbwWpZOtqcOQXOQtD-vW/view?usp=sharing" target="_blank">
+  <img width="600" alt="Watch the video" src="https://github.com/user-attachments/assets/0e965b82-8d54-47cb-ae87-139633b51235" />
+</a>
 
-GIF created with Kap
+GIF created with Macbook built-in Screen Recorder (please click on the image to watch demo)
 
 ## Notes
 
