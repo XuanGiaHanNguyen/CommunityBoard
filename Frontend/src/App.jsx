@@ -18,20 +18,20 @@ import ten from "./image/10.jpg"
 function App() {
 
   return (
-    <div className='p-20 px-26 bg-lime-200'>
-      <div className='flex flex-col'>
+    <div className='px-26 bg-sky-200 flex flex-col justify-center align-center items-center'>
+      <div className='flex flex-col max-w-7xl min-w-lg bg-white h-full py-10 px-6'>
         <h1>Pathway to Software Engineer</h1>
         <p>Essential Resources for Job Hunting, Software Engineering Skills, and Beyond!</p>
         <div className='grid grid-cols-4'>
-            <Card name="Introduction to Programming" image={one} tag="Beginner" link="https://www.facebook.com/"/>
-            <Card name="Technical Interview - the Tips and Tricks" image={two} tag="Beginner" link="https://www.facebook.com/"/>
-            <Card name="Introduction to Programming" image={one} tag="Beginner" link="https://www.facebook.com/"/>
-            <Card name="Technical Interview - the Tips and Tricks" image={two} tag="Beginner" link="https://www.facebook.com/"/>
-            <Card name="Introduction to Programming" image={one} tag="Beginner" link="https://www.facebook.com/"/>
-            <Card name="Technical Interview - the Tips and Tricks" image={two} tag="Beginner" link="https://www.facebook.com/"/>
-            <Card name="Introduction to Programming" image={one} tag="Beginner" link="https://www.facebook.com/"/>
-            <Card name="Technical Interview - the Tips and Tricks" image={two} tag="Beginner" link="https://www.facebook.com/"/>
-            <Card name="Introduction to Programming" image={one} tag="Beginner" link="https://www.facebook.com/"/>
+            <Card name="Introduction to Programming" image={one} tag="Course" link="https://www.facebook.com/"/>
+            <Card name="Technical Interview Prep" image={two} tag="Course" link="https://www.facebook.com/"/>
+            <Card name="Web development 101" image={three} tag="Course" link="https://www.facebook.com/"/>
+            <Card name="Software Engineering Roadmap" image={four} tag="RoadMap" link="https://www.facebook.com/"/>
+            <Card name="Introduction to AI" image={five} tag="Course" link="https://www.facebook.com/"/>
+            <Card name="Cloud Management" image={six} tag="Document" link="https://www.facebook.com/"/>
+            <Card name="Data Structure and Algorithm" image={seven} tag="Course" link="https://www.facebook.com/"/>
+            <Card name="" image={eight} tag="Course" link="https://www.facebook.com/"/>
+            <Card name="Introduction to Programming" image={one} tag="Course" link="https://www.facebook.com/"/>
             <Card name="Technical Interview - the Tips and Tricks" image={two} tag="Beginner" link="https://www.facebook.com/"/>
             
         </div>
