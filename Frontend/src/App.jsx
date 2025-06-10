@@ -44,6 +44,10 @@ function App() {
             <Card name="System Design 101" image={eight} tag="Video" link="https://www.youtube.com/watch?v=uw-gcK9bjkk"/>
             <Card name="Basics of UI/UX Designs" image={nine} tag="Course" link="https://www.youtube.com/watch?v=c9Wg6Cb_YlU&t=4269s"/>
             <Card name="Pathway to Fintech" image={ten} tag="Documents" link="https://ondemand.euromoney.com/discover/pathways/fintech-essentials"/>
+            <Card name="Data Structure and Algorithm" image={seven} tag="Document" link="https://www.w3schools.com/dsa/dsa_intro.php"/>
+            <Card name="System Design 101" image={eight} tag="Video" link="https://www.youtube.com/watch?v=uw-gcK9bjkk"/>
+            <Card name="Basics of UI/UX Designs" image={nine} tag="Course" link="https://www.youtube.com/watch?v=c9Wg6Cb_YlU&t=4269s"/>
+            <Card name="Pathway to Fintech" image={ten} tag="Documents" link="https://ondemand.euromoney.com/discover/pathways/fintech-essentials"/>
         </div>
       </div>
     </div>
